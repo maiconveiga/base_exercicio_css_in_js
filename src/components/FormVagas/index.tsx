@@ -2,7 +2,7 @@ import { FormEvent, useState } from 'react'
 
 import styles from './FormVagas.module.css'
 
-type Props = {
+export type Props = {
   aoPesquisar: (termo: string) => void
 }
 

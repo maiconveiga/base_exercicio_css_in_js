@@ -1,3 +1,20 @@
+# Exercício
+
+# Utilizar o Styled Components para converter a estilização do projeto disponibilizado no Material de apoio para uma estilização utilizando o Styled Components. Estilizar:
+
+formulário
+cabeçalho
+hero
+componente "Vaga"
+componente "ListaVagas".
+
+# Fazer um fork do repositório do projeto e enviar o código atualizado para o Github. Para isso, assista ao vídeo "Como fazer um fork" disponibilizado no Material de apoio.
+
+# Enviar o link do seu repositório através da plataforma.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
