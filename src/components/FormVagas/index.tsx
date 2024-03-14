@@ -1,5 +1,4 @@
 import { FormEvent, useState } from 'react'
-
 import { BtnPesquisar, Campo, FormularioVagasEstilo } from './FormVagas'
 
 export type Props = {
